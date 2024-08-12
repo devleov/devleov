@@ -1,11 +1,11 @@
 ### Olá! meu nome é Léo Vitor 👋
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://devleov.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://devleov.com)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@euleovitor_dev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/euleovitor_dev)
 [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://devleov.com)
 
-![Léo Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=devleov&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devleov)](https://github.com/anuraghazra/github-readme-stats)
+![Léo Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=devleov&show_icons=true&theme=dracula&locale=pt-br)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devleov&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que uso no meu dia
 <div style="display: inline_block">
